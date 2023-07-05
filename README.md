@@ -1,22 +1,22 @@
-<h1>Hi, I'm Jeff! Passionate Cybersecurity Analyst
+<h1>Hi, I'm Jeff! Im Passionate About Cybersecurity
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
 - <b>Azure / Cloud projects 
   - [Creating a Live Soc/Honeynet](https://github.com/JeffBeck12/Azure-Soc)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+  - Use of SIEM Tools to detect and respond to threats
+  - Securing Enivorments in Microsoft Azure
+  -
+- <b>Cybersecurity frameworks 
+  - Nist 800-53
+  - Nist 800-csf
+  - Security Audit
+-  Education
+
+   - [Hands-On Cybersecurity / SOC Analyst Training (REAL EXPERIENCE](https://www.leveldcareers.com/cyber-security-course)
+   - [1/2 Through Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_google-certificates_country-US&campaignid=20086358053&adgroupid=151760779147&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=657301332651&hide_mobile_promo&gclid=CjwKCAjwqZSlBhBwEiwAfoZUIHHNkn2JBaeZenw7v1vU7XoKRzK8wygofGplxaaeA2cPTER7kll-qBoCh2oQAvD_BwE))
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -28,14 +28,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="Supermanjeff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JeffreyBeckett | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
