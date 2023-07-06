@@ -10,7 +10,7 @@
   - Securing Enivorments in Microsoft Azure
   -
 - <b>Cybersecurity frameworks 
-  - Nist 800-53
+  - Nist 800-37
   - Nist 800-csf
   - Security Audit
 -  Education
