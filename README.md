@@ -13,6 +13,14 @@
   - Nist 800-37
   - Nist 800-csf
   - Security Audit
+
+-  Cybersecurity incident Reports 
+
+   - Network Traffic Analysis
+
+
+
+
 -  Education
 
    - [Hands-On Cybersecurity / SOC Analyst Training (REAL EXPERIENCE](https://app.kajabi.com/certificates/c7b68d8a)
