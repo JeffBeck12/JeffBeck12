@@ -42,7 +42,7 @@
 
 
 [twitter]: https://twitter.com/Supermanjeff12
-[linkedin]: https://linkedin.com/in/jeffrey-beckett
+[linkedin]:https://www.linkedin.com/in/jeffrey-beckett-1a7252282/
 
 Dear Hiring Manager
 
