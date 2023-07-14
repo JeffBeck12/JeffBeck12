@@ -41,7 +41,7 @@
 [<img align="left" alt="JeffreyBeckett | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/Supermanjeff12
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 Dear Hiring Manager
