@@ -19,12 +19,12 @@
    - Network Traffic Analysis
    - Cybersecurity Incident Report
 
-- Linux
-  - Checked existing permissions using "ls -la" to inform decisions.
-  - Modified permissions using the "chmod" command:
-  - Removed write permissions for "other" on the file "project_k.txt."
-  - Adjusted permissions for the hidden file ".project_x.txt" to remove write permissions for user and group while adding read permissions for the group.
-  - Removed execute permissions for the group on the "drafts" directory.
+- [Linux](https://github.com/JeffBeck12/Azure-Soc)
+   - Checked existing permissions using "ls -la" to inform decisions.
+   - Modified permissions using the "chmod" command:
+   - Removed write permissions for "other" on the file "project_k.txt."
+   - Adjusted permissions for the hidden file ".project_x.txt" to remove write permissions for user and group while adding read permissions for the group.
+   - Removed execute permissions for the group on the "drafts" directory.
 
 -  Education
 
