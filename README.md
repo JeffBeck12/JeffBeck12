@@ -48,10 +48,3 @@
 
 
 
-Dear Hiring Manager
-
-I am writing to express my keen interest in the cybersecurity position at your company. With a genuine enthusiasm for this field and a strong desire to contribute to an organization's success and the well-being of its stakeholders, I am confident that my skills and dedication make me a valuable asset to your team.
-
-My name is Jeffrey Beckett, and I am a motivated and adaptable individual with a passion for safeguarding digital assets and ensuring the security of organizations. I possess a solid foundation in effective communication, problem-solving, and collaborative teamwork. By staying updated on the latest cybersecurity threats and trends, I can make significant contributions to an organization's digital infrastructure defense. I am a quick learner and eager to explore emerging technologies such as penetration testing, secure coding practices, and cloud security, with the goal of enhancing an organization's security posture and contributing to its overall resilience.
-
-Thank you for considering my application. I look forward to the opportunity of discussing how my skills and enthusiasm align with the goals and vision of your organization. Please find my attached resume for your review.
