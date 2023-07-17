@@ -46,6 +46,8 @@
 [twitter]: https://twitter.com/Supermanjeff12
 [linkedin]:https://www.linkedin.com/in/jeffrey-beckett-1a7252282/
 
+
+
 Dear Hiring Manager
 
 I am writing to express my keen interest in the cybersecurity position at your company. With a genuine enthusiasm for this field and a strong desire to contribute to an organization's success and the well-being of its stakeholders, I am confident that my skills and dedication make me a valuable asset to your team.
