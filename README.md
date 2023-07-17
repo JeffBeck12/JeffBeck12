@@ -8,17 +8,18 @@
 
   - Use of SIEM Tools to detect and respond to threats
   - Securing Enivorments in Microsoft Azure
-  -
+  
 - <b>Cybersecurity frameworks 
   - Nist 800-37
   - Nist 800-csf
-  - Security Audit
+ 
 
--  - [Cybersecurity Incident Report](https://github.com/JeffBeck12/cybersecurity-audits)
+-   [Cybersecurity Incident Report](https://github.com/JeffBeck12/cybersecurity-audits)
 
-   - Network Traffic Analysis
-   - Cybersecurity Incident Report
-
+    - Network Traffic Analysis
+    - Cybersecurity Incident Report
+    - Security Audit
+  
 - [Linux](https://github.com/JeffBeck12/Azure-Soc)
    - Checked existing permissions using "ls -la" to inform decisions.
    - Modified permissions using the "chmod" command:
