@@ -30,7 +30,7 @@
 -  Education
 
    - [Hands-On Cybersecurity / SOC Analyst Training (REAL EXPERIENCE](https://app.kajabi.com/certificates/c7b68d8a)
-   - [1/2 Through Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_google-certificates_country-US&campaignid=20086358053&adgroupid=151760779147&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=657301332651&hide_mobile_promo&gclid=CjwKCAjwqZSlBhBwEiwAfoZUIHHNkn2JBaeZenw7v1vU7XoKRzK8wygofGplxaaeA2cPTER7kll-qBoCh2oQAvD_BwE)
+   - [In progress Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_google-certificates_country-US&campaignid=20086358053&adgroupid=151760779147&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=657301332651&hide_mobile_promo&gclid=CjwKCAjwqZSlBhBwEiwAfoZUIHHNkn2JBaeZenw7v1vU7XoKRzK8wygofGplxaaeA2cPTER7kll-qBoCh2oQAvD_BwE)
 
 <h2>📺 Popular YouTube Videos</h2>
 
