@@ -14,13 +14,12 @@
   - Nist 800-csf
  
 
--   [Cybersecurity Incident Report](https://github.com/JeffBeck12/cybersecurity-audits](https://github.com/JeffBeck12/cybersecurity-audits)
-
+    - [Cybersecurity Incident Report](https://github.com/JeffBeck12/cybersecurity-audits)
     - Network Traffic Analysis
     - Cybersecurity Incident Report
     - Security Audit
   
-- [Linux]("https://github.com/JeffBeck12/Linux-CLS")
+   - [Linux](https://github.com/JeffBeck12/Linux-CLS)
    - Checked existing permissions using "ls -la" to inform decisions.
    - Modified permissions using the "chmod" command:
    - Removed write permissions for "other" on the file "project_k.txt."
