@@ -20,7 +20,7 @@
     - Cybersecurity Incident Report
     - Security Audit
   
-- [Linux](https://github.com/JeffBeck12/Azure-Soc)
+- [Linux]("https://github.com/JeffBeck12/Linux-CLS")
    - Checked existing permissions using "ls -la" to inform decisions.
    - Modified permissions using the "chmod" command:
    - Removed write permissions for "other" on the file "project_k.txt."
