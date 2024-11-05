@@ -20,7 +20,7 @@
     - Security Audit
 - <b>Skills 
    - [Linux](https://github.com/JeffBeck12/Linux-CLS)
-   - Checked existing permissions using "ls -la" to inform decisions.
+   - [Java](https://github.com/JeffBeck12/Java/blob/main/OrderApp106_JB.java)
    - Modified permissions using the "chmod" command:
    - Removed write permissions for "other" on the file "project_k.txt."
    - Adjusted permissions for the hidden file ".project_x.txt" to remove write permissions for user and group while adding read permissions for the group.
