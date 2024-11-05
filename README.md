@@ -1,48 +1,54 @@
-<h1>Hi, I'm Jeff! Im Passionate About Cybersecurity
+# Hi, I'm Jeff! 👋  
+I'm passionate about cybersecurity, with hands-on experience in cloud security, network analysis, and various cybersecurity frameworks.
 
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
+---
 
+## 👨‍💻 Cybersecurity Projects
 
-- <b>Azure / Cloud projects 
-  - [Creating a Live Soc/Honeynet](https://github.com/JeffBeck12/Azure-Soc)
+### Azure / Cloud Projects
+- **[Creating a Live SOC/Honeynet](https://github.com/JeffBeck12/Azure-Soc)**: Built a Security Operations Center (SOC) in Azure to track real-time threats.
+- **SIEM Tools Integration**: Detect and respond to threats using advanced SIEM tools.
+- **Securing Environments in Microsoft Azure**: Enforced best practices for cloud security.
 
-  - Use of SIEM Tools to detect and respond to threats
-  - Securing Enivorments in Microsoft Azure
-  
-- <b>Cybersecurity frameworks 
-  - Nist 800-37
-  - Nist 800-csf
- 
+### Cybersecurity Frameworks
+- **NIST 800-37**: Risk management and security controls.
+- **NIST 800-CSF**: Cybersecurity framework implementation.
+- **[Cybersecurity Incident Report](https://github.com/JeffBeck12/cybersecurity-audits)**: Documented incident response and audit procedures.
+- **Network Traffic Analysis**: Monitoring and analyzing network traffic to detect threats.
+- **Security Audit**: Conducting comprehensive security audits to ensure compliance.
 
-    - [Cybersecurity Incident Report](https://github.com/JeffBeck12/cybersecurity-audits)
-    - Network Traffic Analysis
-    - Cybersecurity Incident Report
-    - Security Audit
-- <b>Skills 
-   - [Linux](https://github.com/JeffBeck12/Linux-CLS)
-   - [Java](https://github.com/JeffBeck12/Java/blob/main/OrderApp106_JB.java)
-   - [Python](https://github.com/JeffBeck12/Python/blob/main/Final%20Project%20Beckett.py)
-   - [Html](https://github.com/JeffBeck12/HTML/blob/main/Aboutme.html)
-   
--  Education
+---
 
-   - [Hands-On Cybersecurity / SOC Analyst Masterclass (REAL EXPERIENCE](https://app.kajabi.com/certificates/c7b68d8a)
-   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_google-certificates_country-US&campaignid=20086358053&adgroupid=151760779147&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=657301332651&hide_mobile_promo&gclid=CjwKCAjwqZSlBhBwEiwAfoZUIHHNkn2JBaeZenw7v1vU7XoKRzK8wygofGplxaaeA2cPTER7kll-qBoCh2oQAvD_BwE)
-   - County College of Morris Associates in Information Technology 3.5 GPA Grad 2025
+## 🛠️ Skills
+- **[Linux](https://github.com/JeffBeck12/Linux-CLS)**: Proficient in Linux CLI and system administration.
+- **[Java](https://github.com/JeffBeck12/Java/blob/main/OrderApp106_JB.java)**: Developed applications with core Java.
+- **[Python](https://github.com/JeffBeck12/Python/blob/main/Final%20Project%20Beckett.py)**: Automated cybersecurity tasks and data analysis.
+- **[HTML](https://github.com/JeffBeck12/HTML/blob/main/Aboutme.html)**: Experience in front-end development basics.
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
+## 🎓 Education
+- **[Hands-On Cybersecurity / SOC Analyst Masterclass (REAL EXPERIENCE)](https://app.kajabi.com/certificates/c7b68d8a)**
+- **[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)**
+- **County College of Morris**: Associate’s in Information Technology, 3.5 GPA (Expected Graduation: 2025)
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 📺 Popular YouTube Videos
+*To be added* - Showcase your videos here to engage visitors!
 
+---
 
-[<img align="left" alt="Supermanjeff | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JeffreyBeckett | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect with Me
 
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg) Twitter][twitter]  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn][linkedin]
+
+---
 
 [twitter]: https://twitter.com/Supermanjeff12
-[linkedin]:https://www.linkedin.com/in/jeffrey-beckett-1a7252282/
+[linkedin]: https://www.linkedin.com/in/jeffrey-beckett-1a7252282/
+
 
 
 
