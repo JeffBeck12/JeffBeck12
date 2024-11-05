@@ -18,7 +18,7 @@
     - Network Traffic Analysis
     - Cybersecurity Incident Report
     - Security Audit
- -<b>Skills 
+- <b>Skills 
    - [Linux](https://github.com/JeffBeck12/Linux-CLS)
    - Checked existing permissions using "ls -la" to inform decisions.
    - Modified permissions using the "chmod" command:
