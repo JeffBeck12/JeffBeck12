@@ -21,7 +21,7 @@
 - <b>Skills 
    - [Linux](https://github.com/JeffBeck12/Linux-CLS)
    - [Java](https://github.com/JeffBeck12/Java/blob/main/OrderApp106_JB.java)
-   - Modified permissions using the "chmod" command:
+   - [Python](https://github.com/JeffBeck12/Python/blob/main/Final%20Project%20Beckett.py)
    - Removed write permissions for "other" on the file "project_k.txt."
    - Adjusted permissions for the hidden file ".project_x.txt" to remove write permissions for user and group while adding read permissions for the group.
    - Removed execute permissions for the group on the "drafts" directory.
