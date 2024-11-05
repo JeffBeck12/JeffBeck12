@@ -23,9 +23,7 @@
    - [Java](https://github.com/JeffBeck12/Java/blob/main/OrderApp106_JB.java)
    - [Python](https://github.com/JeffBeck12/Python/blob/main/Final%20Project%20Beckett.py)
    - [Html](https://github.com/JeffBeck12/HTML/blob/main/Aboutme.html)
-   - Adjusted permissions for the hidden file ".project_x.txt" to remove write permissions for user and group while adding read permissions for the group.
-   - Removed execute permissions for the group on the "drafts" directory.
-
+   
 -  Education
 
    - [Hands-On Cybersecurity / SOC Analyst Masterclass (REAL EXPERIENCE](https://app.kajabi.com/certificates/c7b68d8a)
